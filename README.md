@@ -1,4 +1,4 @@
-- 👋 Hi, I am kibe, a researcher, an aspiring Data scientist and complement Information security. 
+- 👋 Hi, I am kibe, a researcher, an aspiring Data scientist TO complement Information security. 
 - 👀 I’m interested in Data Science and Cyber Security.
 - 🌱 I’m currently learning 'Building and Testing USSD and SMS Applications,' Data science, Text mining on twitter and anaylsis of said texts through R, Ethical hacking,
 - (Data governance and information security).
