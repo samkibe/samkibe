@@ -21,6 +21,7 @@
 
 - 💞️ I’m looking to collaborate on data science projects & information security
 - 📫 How to reach me ... Twitter- @kibe_ish
+- Portfolio: https://samkibe.github.io/Kibe/
 
 <!---
 samkibe/samkibe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
