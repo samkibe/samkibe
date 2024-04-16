@@ -1,7 +1,7 @@
-- 👋 Hi, I am kibe, a Data scientist researcher TO complement Information security. 
+- 👋 Hi, I am kibe, a Data Scientist researcher TO complement Information Security. 
 - 👀 I’m interested and passionate about Data Science and Cyber Security.
 
-- 🌱 Currently taking MSc Data science || digging deeper into Machine Learning 
+- 🌱 Currently taking MSc Data Science || digging deeper into Machine Learning 
 
 - 🌱 Finished working on Serious SQL, an extensive interaction with Databases in Data Exploration using SQL as an analytics tool.
   
