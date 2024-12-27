@@ -24,7 +24,7 @@
 
 
 - 💞️ I’m looking to collaborate on data science projects & information security
-- 📫 How to reach me ... Twitter- @kibe_ish
+- 📫 How to reach me ... LinkedIn: https://www.linkedin.com/in/samwel-kibe-455847131/
 - Check my Portfolio: https://samkibe.github.io/Kibe/
 
 <!---
